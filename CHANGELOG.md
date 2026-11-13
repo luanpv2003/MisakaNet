@@ -7,6 +7,19 @@ All notable changes to the Misaka Network project are documented here.
 
 ---
 
+## [3.15.1](https://github.com/Ikalus1988/MisakaNet/compare/v3.15.0...v3.15.1) (2026-11-13)
+
+
+### Bug Fixes
+
+* **ladder:** a badge means verified, and coverage stops printing a false zero ([#4810](https://github.com/Ikalus1988/MisakaNet/issues/4810)) ([5bcff5f](https://github.com/Ikalus1988/MisakaNet/commit/5bcff5f8748f13474899a9646ec563c633e2ad72))
+* **ladder:** join `used` on whichever shape `top_id` stored ([#4806](https://github.com/Ikalus1988/MisakaNet/issues/4806)) ([fb3a01d](https://github.com/Ikalus1988/MisakaNet/commit/fb3a01dd44372a2a9367bed0bd0b6a8f5e5ff7aa))
+
+
+### Documentation
+
+* **readme:** list the two DSH directory badges ([#4805](https://github.com/Ikalus1988/MisakaNet/issues/4805)) ([3fdbce7](https://github.com/Ikalus1988/MisakaNet/commit/3fdbce742ba9554a0bc3b382e69cd6e5470436f4))
+
 ## [3.15.0](https://github.com/Ikalus1988/MisakaNet/compare/v3.14.0...v3.15.0) (2026-11-13)
 
 
